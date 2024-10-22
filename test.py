@@ -7,6 +7,3 @@ mea = np.mean(avg)
 print(avg)
 
 print("This is my 2nd change")
-
-
-print("This is my clone branch for testing purpose")
