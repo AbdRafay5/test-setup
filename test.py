@@ -4,6 +4,6 @@ import numpy as np
 avg = [12,34,35,22]
 mea = np.mean(avg)
 
-man = mea * 5
+print(avg)
 
-
+print("This is my 2nd change")
