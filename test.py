@@ -7,4 +7,7 @@ mea = np.mean(avg)
 print(avg)
 
 print("This is my 2nd change")
+<<<<<<< HEAD
 print("This is my 3rd change")
+=======
+>>>>>>> parent of 328bd51 (Second change)
